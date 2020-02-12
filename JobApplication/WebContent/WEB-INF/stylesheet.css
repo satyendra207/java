@@ -1,0 +1,27 @@
+body { color:BROWN;
+      font-family:arial;
+      font-weight:bold ;
+      font-style:italic;
+
+ }
+.underline { text-decoration:underline; }
+ 
+ h1 { background-color:#FFCF100; 
+      border:solid blue;
+      COLOR:GREEN;
+      FONT-SIZE:25PX;}
+
+ p.b { color:red;
+
+    font-size:15px;    }
+p.a { color:blue;
+
+    font-size:15px;    }
+p.inst {
+   color:black;
+background-color:white;
+line-height:1.5em;
+font-size:10px;
+padding:10px;
+border-width:10px;
+border-color:yellow;}
