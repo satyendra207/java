@@ -1,8 +1,10 @@
-<<<<<<< HEAD
-first
-second
-third
-fourth
-fifth
-six change in preethi branch
-seventh>>>>>> satyendra
+a
+b
+c
+d
+e
+f
+g
+h
+i
+
